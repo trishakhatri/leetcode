@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/trishakhatri/leetcode/tree/master/0039-combination-sum) |
 | [3620-network-recovery-pathways](https://github.com/trishakhatri/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/trishakhatri/leetcode/tree/master/3620-network-recovery-pathways) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/trishakhatri/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
