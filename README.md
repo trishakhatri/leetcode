@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trishakhatri/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/trishakhatri/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trishakhatri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/trishakhatri/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/trishakhatri/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/trishakhatri/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/trishakhatri/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
