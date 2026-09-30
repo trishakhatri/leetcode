@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/trishakhatri/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/trishakhatri/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/trishakhatri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/trishakhatri/leetcode/tree/master/0784-letter-case-permutation) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/trishakhatri/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/trishakhatri/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/trishakhatri/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/trishakhatri/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/trishakhatri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trishakhatri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/trishakhatri/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -179,4 +181,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/trishakhatri/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/trishakhatri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/trishakhatri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
