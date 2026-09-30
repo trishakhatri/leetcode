@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/trishakhatri/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/trishakhatri/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/trishakhatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/trishakhatri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/trishakhatri/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3483-unique-3-digit-even-numbers](https://github.com/trishakhatri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/trishakhatri/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -182,8 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/trishakhatri/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/trishakhatri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/trishakhatri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/trishakhatri/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/trishakhatri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
